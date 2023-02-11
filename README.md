@@ -17,6 +17,10 @@ This is the index to navigate my projects on Github.
 
 ### Mini Projects
 
+|  #  |            Project             | Live Demo |
+| :-: | :----------------------------: | :-------: |
+| 01  |       [Expanding Cards](https://github.com/rahuldangeofficial/expanding-cards)       | [Live Demo](https://rahuldangeofficial.github.io/expanding-cards/)  |
+
 
 
 ##### (index under development)
