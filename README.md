@@ -12,6 +12,7 @@ This is the index to navigate my projects on Github.
 | 02  |     [My Library](https://github.com/rahuldangeofficial/my-library)    | [Live Demo](https://rahuldangeofficial.github.io/my-library/)  |
 | 03  |    [Rock Paper Scissors](https://github.com/rahuldangeofficial/rock-paper-scissors)     | [Live Demo](https://rahuldangeofficial.github.io/rock-paper-scissors/)  |
 | 04  |  [Tic Tac Toe](https://github.com/rahuldangeofficial/tic-tac-toe)  | [Live Demo](https://rahuldangeofficial.github.io/tic-tac-toe/)  |
+| 05  |  [Tic Tac Toe (React)](https://github.com/rahuldangeofficial/react-tic-tac-toe)  | [Live Demo](https://rahuldangeofficial.github.io/react-tic-tac-toe/)  |
 
 ### Mini Projects
 
