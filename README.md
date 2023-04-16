@@ -3,6 +3,9 @@
 This is the index to navigate my projects on Github.
 
 ### Macro Projects
+|  #  |            Project             | Live Demo |
+| :-: | :----------------------------: | :-------: |
+| 01  |       [Marathi Arithmetic Parser](https://github.com/rahuldangeofficial/marathi-arithmetic-parser)       | [Live Demo](https://rahuldangeofficial.github.io/marathi-arithmetic-parser/)  |
 
 ### Micro Projects
 
