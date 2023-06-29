@@ -28,6 +28,7 @@ This is the index to navigate my projects on Github.
 | 05  | [JS Quote Generator](https://github.com/rahuldangeofficial/javascript-quote-generator)| [Live Demo](https://rahuldangeofficial.github.io/javascript-quote-generator/)  |
 | 06  | [JS Drum Kit ](https://github.com/rahuldangeofficial/JS-drum-kit)  | [Live Demo](https://rahuldangeofficial.github.io/JS-drum-kit/)  |
 | 07  | [JS & CSS Clock ](https://github.com/rahuldangeofficial/JS-CSS-clock)  | [Live Demo](https://rahuldangeofficial.github.io/JS-CSS-clock/)  |
+| 08  | [CSS Variables ](https://github.com/rahuldangeofficial/CSS-variables)  | [Live Demo](https://rahuldangeofficial.github.io/css-variables/)  |
 
 
 
