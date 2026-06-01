@@ -2,46 +2,59 @@
 
 **Computer Engineer specializing in Systems, Algorithms & Product Architecture**
 
-**Website:** https://rahuldange.com (https://www.rahuldange.com)  
-**Contact:** contact@rahuldange.com | rahuldangeofficial@gmail.com
+Website: https://rahuldange.com (https://www.rahuldange.com)  
+Email: contact@rahuldange.com | rahuldangeofficial@gmail.com
 
 ---
 
-## Portfolio Index
+## About
 
-A curated index of my public work—spanning front‑end UI engineering, full‑stack product builds, and low‑level experimental systems.
+I build software where correctness, performance, and product clarity matter. My work spans:
 
-- **Rank order:** Derived from the leading index in the repository name (e.g., `07-…` → **#07**)
-- **Public only:** This list intentionally includes only public repositories
+- **Product engineering:** user-facing applications with clean UX, maintainable architecture, and production-grade delivery
+- **Systems & algorithms:** low-level experimentation, deterministic execution, and performance-oriented design
 
----
-
-## Public Projects (ranked)
-
-|  #  | Project | What it is | Live Demo |
-| :-: | :------ | :--------- | :-------: |
-| 00  | [My Library](https://github.com/rahuldangeofficial/00-my-library) | LocalStorage‑backed mini library app to practise DOM manipulation, classes/objects, and UI state handling. | [Try Now](https://rahuldangeofficial.github.io/00-my-library/) |
-| 01  | [Rock Paper Scissors](https://github.com/rahuldangeofficial/01-rock-paper-scissors) | A refined, responsive Rock‑Paper‑Scissors build using semantic HTML and ES6+ structure, with a BlueprintJS‑styled UI. | [Try Now](https://rahuldangeofficial.github.io/01-rock-paper-scissors/) |
-| 02  | [4 Function Calculator](https://github.com/rahuldangeofficial/02-4-function-calculator) | Responsive calculator with dual display and core arithmetic operations—built with HTML/CSS/Vanilla JS. | [Try Now](https://rahuldangeofficial.github.io/02-4-function-calculator/) |
-| 03  | [Tic Tac Toe](https://github.com/rahuldangeofficial/03-tic-tac-toe) | Modular Tic‑Tac‑Toe using IIFE/module patterns and factory functions, focused on encapsulation and clean game state design. | [Try Now](https://rahuldangeofficial.github.io/03-tic-tac-toe/) |
-| 04  | [Weather Application](https://github.com/rahuldangeofficial/04-weather-application) | Client‑side weather app using OpenWeatherMap with light/dark theming and persistent local settings. | [Try Now](https://rahuldangeofficial.github.io/04-weather-application/) |
-| 05  | [To‑Do Application (React)](https://github.com/rahuldangeofficial/05-to-do-application) | React fundamentals project covering components, props, state, and hooks for basic task management. | — |
-| 06  | [Tic Tac Toe v2 (React)](https://github.com/rahuldangeofficial/06-tic-tac-toe-v2) | Modern React implementation following official docs—interactive history/gameplay with a clean UI and pragmatic structure. | [Try Now](https://rahuldangeofficial.github.io/06-tic-tac-toe-v2/) |
-| 07  | [EasyKeeper](https://github.com/rahuldangeofficial/07-easykeeper) | Production‑style note‑taking app with React frontend + Firebase backend, Google OAuth sign‑in, and real‑time Firestore persistence. | [Try Now](https://easykeeper.vercel.app/) |
-| 08  | [Mini Message Board](https://github.com/rahuldangeofficial/08-mini-message-board) | Minimal forum‑style message board demonstrating end‑to‑end web fundamentals: UI, styling, and message flows. | — |
-| 09  | [Word Arithmetic Parser](https://github.com/rahuldangeofficial/09-word-arithmetic-parser) | Educational React dashboard that tokenizes word‑math, builds an AST, and evaluates expressions using BODMAS precedence. | [Try Now](https://09-word-arithmetic-parser.vercel.app/) |
-| 10  | [WorldUpdate Tool (CLI)](https://github.com/rahuldangeofficial/10-worldupdate-tool) | CLI crawler + summarizer that aggregates sources (HN/Reddit/GitHub) and uses GPT‑4o to surface high‑signal updates. | — |
-| 11  | [Portfolio Website](https://github.com/rahuldangeofficial/11-portfolio-website) | Personal website: portfolio, skills, and contact—built as a clean, professional web presence. | [Try Now](https://www.rahuldange.com/) |
-| 12  | [Spotlight Interaction Platform](https://github.com/rahuldangeofficial/12-spotlight-interaction-platform) | TypeScript web app for real‑time, event‑style audience interaction with an emphasis on responsive collaboration UX. | — |
-| 14  | [edit (Text Editor)](https://github.com/rahuldangeofficial/14-edit-text-editor) | Minimal terminal text editor designed for fast edits: no modes, no commands, autosave by default. | — |
-| 15  | [GSDB CLI (Experimental)](https://github.com/rahuldangeofficial/15-GSDB-CLI-experimental) | Experimental constant‑time document store mapping 4D coordinates to disk offsets (ISO C11)—no B‑trees, math‑driven addressing. | — |
-| 16  | [LLFPL1 (Experimental)](https://github.com/rahuldangeofficial/16-LLFPL1-experimental) | Low‑level functional language experiment focused on deterministic execution and performance‑oriented runtime design. | — |
-| 18  | [Sentinel Daemon (Experimental)](https://github.com/rahuldangeofficial/18-sentinel-daemon-experimental) | C/Assembly daemon concept for proactive system defense and performance control on macOS/Linux. | — |
-| 20  | [SpatialPress CE (Experimental)](https://github.com/rahuldangeofficial/20-spatialpress-CE-experimental) | Compression codec experiment combining Morton Z‑order coordinate interleaving and adaptive range coding. | — |
+This README is a **curated index of my public repositories**, ordered by the numeric prefix in each repo name.
 
 ---
 
-### Notes
+## Selected Work (recommended starting points)
 
-- If you’re evaluating my work, **#07 EasyKeeper** and **#11 Portfolio Website** represent my most product‑oriented builds.
-- The **Experimental** projects are intentionally ambitious and research‑driven; they emphasize systems thinking, performance, and low‑level design.
+| Area | Project | Why it matters | Live Demo |
+| :--- | :------ | :------------- | :-------: |
+| Product (Full‑Stack) | [07-easykeeper](https://github.com/rahuldangeofficial/07-easykeeper) | Modern note‑taking app with Google OAuth, Firebase + Firestore realtime persistence, and product-first UX. | [Try Now](https://easykeeper.vercel.app/) |
+| Product (Portfolio) | [11-portfolio-website](https://github.com/rahuldangeofficial/11-portfolio-website) | Primary web presence—portfolio, skills, and contact, designed for clarity and professional presentation. | [Try Now](https://www.rahuldange.com/) |
+| Systems (CLI) | [10-worldupdate-tool](https://github.com/rahuldangeofficial/10-worldupdate-tool) | CLI pipeline that crawls multiple sources and produces high-signal summaries; emphasizes automation and information design. | — |
+| Systems (Experimental) | [15-GSDB-CLI-experimental](https://github.com/rahuldangeofficial/15-GSDB-CLI-experimental) | Constant-time document-store concept mapping 4D coordinates to disk offsets—math-driven addressing, ISO C11. | — |
+
+---
+
+## Public Repositories (ranked index)
+
+|  #  | Repository | Focus | Description | Live |
+| :-: | :--------- | :---- | :---------- | :--: |
+| 00 | [00-my-library](https://github.com/rahuldangeofficial/00-my-library) | Front‑End | LocalStorage-backed library app to practise DOM manipulation, classes/objects, and UI state. | [Demo](https://rahuldangeofficial.github.io/00-my-library/) |
+| 01 | [01-rock-paper-scissors](https://github.com/rahuldangeofficial/01-rock-paper-scissors) | Front‑End | Refined Rock‑Paper‑Scissors with semantic HTML and ES6+ structure; responsive UI with a BlueprintJS theme. | [Demo](https://rahuldangeofficial.github.io/01-rock-paper-scissors/) |
+| 02 | [02-4-function-calculator](https://github.com/rahuldangeofficial/02-4-function-calculator) | Front‑End | Responsive calculator with dual display and core arithmetic operations. | [Demo](https://rahuldangeofficial.github.io/02-4-function-calculator/) |
+| 03 | [03-tic-tac-toe](https://github.com/rahuldangeofficial/03-tic-tac-toe) | JavaScript Architecture | Modular Tic‑Tac‑Toe using IIFE/module patterns and factory functions; clean state management. | [Demo](https://rahuldangeofficial.github.io/03-tic-tac-toe/) |
+| 04 | [04-weather-application](https://github.com/rahuldangeofficial/04-weather-application) | Front‑End | OpenWeatherMap client with light/dark theme and persistent local settings. | [Demo](https://rahuldangeofficial.github.io/04-weather-application/) |
+| 05 | [05-to-do-application](https://github.com/rahuldangeofficial/05-to-do-application) | React | React fundamentals: components, props, state, hooks; basic task management. | — |
+| 06 | [06-tic-tac-toe-v2](https://github.com/rahuldangeofficial/06-tic-tac-toe-v2) | React | React implementation following official docs; interactive gameplay with pragmatic structure. | [Demo](https://rahuldangeofficial.github.io/06-tic-tac-toe-v2/) |
+| 07 | [07-easykeeper](https://github.com/rahuldangeofficial/07-easykeeper) | Full‑Stack | Notes app with Google OAuth, Firebase, and Firestore realtime persistence. | [Demo](https://easykeeper.vercel.app/) |
+| 08 | [08-mini-message-board](https://github.com/rahuldangeofficial/08-mini-message-board) | Web Fundamentals | Minimal message board demonstrating end-to-end fundamentals: UI, styling, and message flows. | — |
+| 09 | [09-word-arithmetic-parser](https://github.com/rahuldangeofficial/09-word-arithmetic-parser) | Algorithms + UI | Visualizes tokenization, AST parsing, and BODMAS evaluation for word-based arithmetic. | [Demo](https://09-word-arithmetic-parser.vercel.app/) |
+| 10 | [10-worldupdate-tool](https://github.com/rahuldangeofficial/10-worldupdate-tool) | Automation (CLI) | Crawls multiple sources and uses GPT‑4o to categorize and summarize high-signal updates. | — |
+| 11 | [11-portfolio-website](https://github.com/rahuldangeofficial/11-portfolio-website) | Product | Portfolio site showcasing work and contact information. | [Demo](https://www.rahuldange.com/) |
+| 12 | [12-spotlight-interaction-platform](https://github.com/rahuldangeofficial/12-spotlight-interaction-platform) | TypeScript | Real-time interaction platform for live sessions; UX focused on collaboration. | — |
+| 14 | [14-edit-text-editor](https://github.com/rahuldangeofficial/14-edit-text-editor) | Systems (CLI) | Minimal terminal text editor: no modes, no commands, autosave-first workflow. | — |
+| 15 | [15-GSDB-CLI-experimental](https://github.com/rahuldangeofficial/15-GSDB-CLI-experimental) | Systems (C) | Experimental geometric storage DB: O(1) addressing via 4D coordinate mapping to disk offsets. | — |
+| 16 | [16-LLFPL1-experimental](https://github.com/rahuldangeofficial/16-LLFPL1-experimental) | Language Design | Low-level functional language experiment targeting deterministic execution and performance. | — |
+| 18 | [18-sentinel-daemon-experimental](https://github.com/rahuldangeofficial/18-sentinel-daemon-experimental) | Systems (C/ASM) | Daemon concept for proactive defense and performance control on macOS/Linux. | — |
+| 20 | [20-spatialpress-CE-experimental](https://github.com/rahuldangeofficial/20-spatialpress-CE-experimental) | Compression | Compression experiment using Morton Z-order interleaving and adaptive range coding. | — |
+
+---
+
+## Notes
+
+- The **Selected Work** section is designed for reviewers and recruiters: it provides fast entry points with high signal.
+- The **Experimental** repositories are intentionally research-driven and emphasize systems thinking and performance tradeoffs.
